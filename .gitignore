@@ -1,0 +1,18 @@
+# Python virtual environment
+yolo_env/
+__pycache__/
+*.pyc
+
+# Build files
+*.o
+camera_gtk
+
+# IDE files
+.vscode/
+.idea/
+
+# ONNX models
+*.onnx
+
+# Logs
+*.log 
